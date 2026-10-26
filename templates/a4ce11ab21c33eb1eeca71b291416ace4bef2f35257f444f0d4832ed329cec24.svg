@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Prompt siap, gambar belum dibuat</title>
+  <desc id="desc">Penanda untuk koleksi prompt yang bisa disesuaikan. Ini bukan contoh hasil gambar.</desc>
+  <rect width="900" height="1125" fill="#E9E5DB"/>
+  <rect x="60" y="60" width="780" height="1005" rx="8" fill="none" stroke="#767D6C" stroke-dasharray="10 12" stroke-width="2"/>
+  <g fill="#22251F" font-family="Arial,sans-serif" text-anchor="middle">
+    <text x="450" y="450" font-size="22" letter-spacing="5">TSUKURO / KOLEKSI PROMPT</text>
+    <text x="450" y="555" font-size="62" font-weight="700">Prompt siap.</text>
+    <text x="450" y="620" font-size="30">Gambar belum dibuat</text>
+    <text x="450" y="715" font-size="22" fill="#58634D">Buka untuk menyesuaikan detail</text>
+  </g>
+</svg>

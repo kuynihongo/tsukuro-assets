@@ -1,0 +1,986 @@
+{
+  "repository": "kuynihongo/tsukuro-assets",
+  "images": [
+    {
+      "file": "templates/024fefaa9cad013f55e0314e29863ff4f90af9309cf09e12c97f2ae760f93ef4.webp",
+      "sha256": "024fefaa9cad013f55e0314e29863ff4f90af9309cf09e12c97f2ae760f93ef4",
+      "size": 232792,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-024fefaa9cad013f55e0314e29863ff4f90af9309cf09e12c97f2ae760f93ef4",
+        "/posters/studio/studio-sinyal-kreatif.webp"
+      ]
+    },
+    {
+      "file": "templates/06f22a24be9b45465e9824316769e12cb8270c17823d05f97a97b1f575a526c1.webp",
+      "sha256": "06f22a24be9b45465e9824316769e12cb8270c17823d05f97a97b1f575a526c1",
+      "size": 110994,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-06f22a24be9b45465e9824316769e12cb8270c17823d05f97a97b1f575a526c1",
+        "/posters/studio/studio-alur-studio.webp"
+      ]
+    },
+    {
+      "file": "templates/0fe1e547ffab536a2810f2994519edcc9970159ed5e80edeb7d7cc25e348886d.webp",
+      "sha256": "0fe1e547ffab536a2810f2994519edcc9970159ed5e80edeb7d7cc25e348886d",
+      "size": 334568,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-0fe1e547ffab536a2810f2994519edcc9970159ed5e80edeb7d7cc25e348886d",
+        "/posters/piknik-komunitas-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/14855e51406a9bbbb376e499fd6b37e2edf5f93b49425937d0a0d91387bdba50.webp",
+      "sha256": "14855e51406a9bbbb376e499fd6b37e2edf5f93b49425937d0a0d91387bdba50",
+      "size": 301772,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-14855e51406a9bbbb376e499fd6b37e2edf5f93b49425937d0a0d91387bdba50",
+        "/posters/matcha-studio-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/1a6e55bedf4dc308798cbe13c027ed07bbe891b7fa07724b63715a24dd2b469d.webp",
+      "sha256": "1a6e55bedf4dc308798cbe13c027ed07bbe891b7fa07724b63715a24dd2b469d",
+      "size": 555992,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-1a6e55bedf4dc308798cbe13c027ed07bbe891b7fa07724b63715a24dd2b469d",
+        "/posters/studio/studio-warna-alam.webp"
+      ]
+    },
+    {
+      "file": "templates/1af523b0d5415f956e14af122486f99b5bcda950396a252fa910abc75ed5fc7b.webp",
+      "sha256": "1af523b0d5415f956e14af122486f99b5bcda950396a252fa910abc75ed5fc7b",
+      "size": 532090,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-1af523b0d5415f956e14af122486f99b5bcda950396a252fa910abc75ed5fc7b",
+        "/posters/studio/studio-rumah-serat.webp"
+      ]
+    },
+    {
+      "file": "templates/1fa7b54f849f940f5772798202d7ad4388ae68268c94edd65c5b5554d4d4fb60.webp",
+      "sha256": "1fa7b54f849f940f5772798202d7ad4388ae68268c94edd65c5b5554d4d4fb60",
+      "size": 385186,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-1fa7b54f849f940f5772798202d7ad4388ae68268c94edd65c5b5554d4d4fb60",
+        "/posters/studio/studio-roti-pagi-ceria.webp"
+      ]
+    },
+    {
+      "file": "templates/22474cc113dfdf47bfdb72d2523c310487afb1af6b47347a4f9c8467d94e6afd.webp",
+      "sha256": "22474cc113dfdf47bfdb72d2523c310487afb1af6b47347a4f9c8467d94e6afd",
+      "size": 266502,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-22474cc113dfdf47bfdb72d2523c310487afb1af6b47347a4f9c8467d94e6afd",
+        "/posters/perjalanan-kereta-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/230ae927b67e18c2e98e4b5269db360ba7aefd1b03673fa09935b22808831695.webp",
+      "sha256": "230ae927b67e18c2e98e4b5269db360ba7aefd1b03673fa09935b22808831695",
+      "size": 138956,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-230ae927b67e18c2e98e4b5269db360ba7aefd1b03673fa09935b22808831695",
+        "/posters/studio/studio-lensa-satu.webp"
+      ]
+    },
+    {
+      "file": "templates/34cd766b8dc4e60fb38a9151dd47e4404bf561ce8513d4b327bc33663e1577f7.webp",
+      "sha256": "34cd766b8dc4e60fb38a9151dd47e4404bf561ce8513d4b327bc33663e1577f7",
+      "size": 256462,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-34cd766b8dc4e60fb38a9151dd47e4404bf561ce8513d4b327bc33663e1577f7",
+        "/posters/studio/studio-ruang-bentuk.webp"
+      ]
+    },
+    {
+      "file": "templates/400a1fc2ccf0e3031db5d36911c43a9a8b3a805dcdc08f8ea1670a754abd6362.webp",
+      "sha256": "400a1fc2ccf0e3031db5d36911c43a9a8b3a805dcdc08f8ea1670a754abd6362",
+      "size": 329522,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-400a1fc2ccf0e3031db5d36911c43a9a8b3a805dcdc08f8ea1670a754abd6362",
+        "/posters/studio/studio-laboratorium-ide.webp"
+      ]
+    },
+    {
+      "file": "templates/42874dac6514e8ed1809aa2b48560179a1a1f1532e9ba16681d0e3510ed5a7e7.webp",
+      "sha256": "42874dac6514e8ed1809aa2b48560179a1a1f1532e9ba16681d0e3510ed5a7e7",
+      "size": 371824,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-42874dac6514e8ed1809aa2b48560179a1a1f1532e9ba16681d0e3510ed5a7e7",
+        "/posters/festival-layang-layang-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/44268a09d5c25144ebf8895963ddc64d666118b24dfead68cd72af03a157bac5.webp",
+      "sha256": "44268a09d5c25144ebf8895963ddc64d666118b24dfead68cd72af03a157bac5",
+      "size": 307974,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-44268a09d5c25144ebf8895963ddc64d666118b24dfead68cd72af03a157bac5",
+        "/posters/pecahan-lewat-pizza-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/45b5aa48f481be866d21ff523cf3bcd8166ae695ddef1ae00cb1f2fa6ab82671.webp",
+      "sha256": "45b5aa48f481be866d21ff523cf3bcd8166ae695ddef1ae00cb1f2fa6ab82671",
+      "size": 413052,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-45b5aa48f481be866d21ff523cf3bcd8166ae695ddef1ae00cb1f2fa6ab82671",
+        "/posters/studio/studio-malam-cakrawala.webp"
+      ]
+    },
+    {
+      "file": "templates/4a401a52629665bc0fa887d02761fb617536e5b9e3715d24e960839208e0c716.webp",
+      "sha256": "4a401a52629665bc0fa887d02761fb617536e5b9e3715d24e960839208e0c716",
+      "size": 372000,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-4a401a52629665bc0fa887d02761fb617536e5b9e3715d24e960839208e0c716",
+        "/posters/pasar-kreatif-lokal-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/4a8492c87ab7397a0599ce9cf26d322a3025ffcab761fae9c27fed4f3aa38829.webp",
+      "sha256": "4a8492c87ab7397a0599ce9cf26d322a3025ffcab761fae9c27fed4f3aa38829",
+      "size": 355074,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-4a8492c87ab7397a0599ce9cf26d322a3025ffcab761fae9c27fed4f3aa38829",
+        "/posters/undangan-pernikahan-botani-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/4c6c70d6708723bbfb81a7decf1ac825b4de85d29ae0b6ecea1b039f2d32d9b6.webp",
+      "sha256": "4c6c70d6708723bbfb81a7decf1ac825b4de85d29ae0b6ecea1b039f2d32d9b6",
+      "size": 328684,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-4c6c70d6708723bbfb81a7decf1ac825b4de85d29ae0b6ecea1b039f2d32d9b6",
+        "/posters/pilah-sampah-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/4d103d28165c6166a906f4ce19aa44186468468ef41ed3be3dafdbaed098cd0f.webp",
+      "sha256": "4d103d28165c6166a906f4ce19aa44186468468ef41ed3be3dafdbaed098cd0f",
+      "size": 461354,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-4d103d28165c6166a906f4ce19aa44186468468ef41ed3be3dafdbaed098cd0f",
+        "/posters/studio/studio-gerak-bersama.webp"
+      ]
+    },
+    {
+      "file": "templates/4d18fe6296e9811c87be24db29d3954d9b0e7a738fe21a842580ca1b1554533e.webp",
+      "sha256": "4d18fe6296e9811c87be24db29d3954d9b0e7a738fe21a842580ca1b1554533e",
+      "size": 313776,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-4d18fe6296e9811c87be24db29d3954d9b0e7a738fe21a842580ca1b1554533e",
+        "/posters/camping-di-pegunungan-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/513edd5b97c156c70ce0f1b2e6c7065d7cbf259d6f69f8e8b0b9135fc05df79e.webp",
+      "sha256": "513edd5b97c156c70ce0f1b2e6c7065d7cbf259d6f69f8e8b0b9135fc05df79e",
+      "size": 221206,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-513edd5b97c156c70ce0f1b2e6c7065d7cbf259d6f69f8e8b0b9135fc05df79e",
+        "/posters/meja-kerja-fokus-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/0de6bb82fd43ba6dadcc148226e797dc5366b1e4977c6270bbc367145289f01d.webp",
+      "sha256": "0de6bb82fd43ba6dadcc148226e797dc5366b1e4977c6270bbc367145289f01d",
+      "size": 309650,
+      "width": 1024,
+      "height": 1536,
+      "sources": [
+        "/api/assets/image-57e935373f8a86f9a98d1887f7932c00606c1a2e5acdf99e22c34b6483423cb1",
+        "/previews/kebiasaan-harian-bahasa-jepang.png"
+      ]
+    },
+    {
+      "file": "templates/5b3e599ab1d3135ef3fa2956bcd898cdf1dbe4698365a6a33e69c67f02e08ee4.webp",
+      "sha256": "5b3e599ab1d3135ef3fa2956bcd898cdf1dbe4698365a6a33e69c67f02e08ee4",
+      "size": 508900,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-5b3e599ab1d3135ef3fa2956bcd898cdf1dbe4698365a6a33e69c67f02e08ee4",
+        "/posters/studio/studio-fragmen-kota.webp"
+      ]
+    },
+    {
+      "file": "templates/6224abb6adcef307fe199a4ef0e651ac29275f2877b6cb5f6ab161f7a516febd.webp",
+      "sha256": "6224abb6adcef307fe199a4ef0e651ac29275f2877b6cb5f6ab161f7a516febd",
+      "size": 329558,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-6224abb6adcef307fe199a4ef0e651ac29275f2877b6cb5f6ab161f7a516febd",
+        "/posters/kota-malam-neon-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/67875dbf94607554787d4668dfc46ed94657fca44397a01eff79b662acc4507b.webp",
+      "sha256": "67875dbf94607554787d4668dfc46ed94657fca44397a01eff79b662acc4507b",
+      "size": 302302,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-67875dbf94607554787d4668dfc46ed94657fca44397a01eff79b662acc4507b",
+        "/posters/toko-bunga-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/67dd3ddc4f6db5c3836c73996d017367baaecf735ddd13d1f99b3784eb4f718f.webp",
+      "sha256": "67dd3ddc4f6db5c3836c73996d017367baaecf735ddd13d1f99b3784eb4f718f",
+      "size": 245670,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-67dd3ddc4f6db5c3836c73996d017367baaecf735ddd13d1f99b3784eb4f718f",
+        "/posters/studio/studio-forum-desain.webp"
+      ]
+    },
+    {
+      "file": "templates/6bb3744f9050ae9244e80147d44d444fc81ace25870f6adb498b4fd20890ea91.webp",
+      "sha256": "6bb3744f9050ae9244e80147d44d444fc81ace25870f6adb498b4fd20890ea91",
+      "size": 401722,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-6bb3744f9050ae9244e80147d44d444fc81ace25870f6adb498b4fd20890ea91",
+        "/posters/studio/studio-soda-tropika.webp"
+      ]
+    },
+    {
+      "file": "templates/6fcad459f22bd5c3f39a8d182331b9b5c41920c253bd4d4a58a94a8c42cf1159.webp",
+      "sha256": "6fcad459f22bd5c3f39a8d182331b9b5c41920c253bd4d4a58a94a8c42cf1159",
+      "size": 319016,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-6fcad459f22bd5c3f39a8d182331b9b5c41920c253bd4d4a58a94a8c42cf1159",
+        "/posters/fotografi-makanan-rumahan-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/71aa3e4ebd79460584d00dc0e975ecb70b2d7a02026f6d472384993ec52be50c.webp",
+      "sha256": "71aa3e4ebd79460584d00dc0e975ecb70b2d7a02026f6d472384993ec52be50c",
+      "size": 436042,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-71aa3e4ebd79460584d00dc0e975ecb70b2d7a02026f6d472384993ec52be50c",
+        "/posters/petualangan-dinosaurus-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/72d3c883ea8f976ffd0c3e29715b954f7e4ee4bdedc70ee154982c4a2c3024e1.webp",
+      "sha256": "72d3c883ea8f976ffd0c3e29715b954f7e4ee4bdedc70ee154982c4a2c3024e1",
+      "size": 291072,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-72d3c883ea8f976ffd0c3e29715b954f7e4ee4bdedc70ee154982c4a2c3024e1",
+        "/posters/workshop-tembikar-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/73bbbc7f9f11f23ad8b958c05cc47fbdfe966b157fa24e911f4684a77c30b0ae.webp",
+      "sha256": "73bbbc7f9f11f23ad8b958c05cc47fbdfe966b157fa24e911f4684a77c30b0ae",
+      "size": 185144,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-73bbbc7f9f11f23ad8b958c05cc47fbdfe966b157fa24e911f4684a77c30b0ae",
+        "/posters/studio/studio-geometri-mimpi.webp"
+      ]
+    },
+    {
+      "file": "templates/7769cae16187b279931e2ae521aa74a1c4ee8b4a8ad4056e51fb30afd753a769.webp",
+      "sha256": "7769cae16187b279931e2ae521aa74a1c4ee8b4a8ad4056e51fb30afd753a769",
+      "size": 247196,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-7769cae16187b279931e2ae521aa74a1c4ee8b4a8ad4056e51fb30afd753a769",
+        "/posters/kucing-di-rumah-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/785f1a31789c08033de8b71c389bb3fea9a3554d06d60d40de294b61f959e996.webp",
+      "sha256": "785f1a31789c08033de8b71c389bb3fea9a3554d06d60d40de294b61f959e996",
+      "size": 324970,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-785f1a31789c08033de8b71c389bb3fea9a3554d06d60d40de294b61f959e996",
+        "/posters/tas-daur-ulang-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/7aae613ff4ed4853fe5cd3afde784acbb6a41d5eef5b27c46371d910ffda2bbd.webp",
+      "sha256": "7aae613ff4ed4853fe5cd3afde784acbb6a41d5eef5b27c46371d910ffda2bbd",
+      "size": 346842,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-7aae613ff4ed4853fe5cd3afde784acbb6a41d5eef5b27c46371d910ffda2bbd",
+        "/posters/roti-artisan-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/7b0f3a64c7585fa86d4fc2e0b6db2bd309b8b7830efa3c1bb592737c71c76bbd.webp",
+      "sha256": "7b0f3a64c7585fa86d4fc2e0b6db2bd309b8b7830efa3c1bb592737c71c76bbd",
+      "size": 234432,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-7b0f3a64c7585fa86d4fc2e0b6db2bd309b8b7830efa3c1bb592737c71c76bbd",
+        "/posters/jurnal-rasa-syukur-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/8080398451b6e1da9da5f14323a4144bad6cd56db0ab588af319e4781119cd1c.webp",
+      "sha256": "8080398451b6e1da9da5f14323a4144bad6cd56db0ab588af319e4781119cd1c",
+      "size": 320996,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-8080398451b6e1da9da5f14323a4144bad6cd56db0ab588af319e4781119cd1c",
+        "/posters/parfum-botani-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/8251573c64dc3608cc635927302f822765c4bd4740157706ec4d1cabbd610676.webp",
+      "sha256": "8251573c64dc3608cc635927302f822765c4bd4740157706ec4d1cabbd610676",
+      "size": 436034,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-8251573c64dc3608cc635927302f822765c4bd4740157706ec4d1cabbd610676",
+        "/posters/studio/studio-eksperimen-suara.webp"
+      ]
+    },
+    {
+      "file": "templates/8636e5d6ba0b2c115bbf9bd5db76b287ea7b5d2c4757f7a246ccd06bb07d8c1a.webp",
+      "sha256": "8636e5d6ba0b2c115bbf9bd5db76b287ea7b5d2c4757f7a246ccd06bb07d8c1a",
+      "size": 42626,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-8636e5d6ba0b2c115bbf9bd5db76b287ea7b5d2c4757f7a246ccd06bb07d8c1a",
+        "/posters/studio/studio-ruang-suara.webp"
+      ]
+    },
+    {
+      "file": "templates/911425cee98d11f1ce3a9718a332b30ba1674ff057b294789bbe3c697689dd33.webp",
+      "sha256": "911425cee98d11f1ce3a9718a332b30ba1674ff057b294789bbe3c697689dd33",
+      "size": 291628,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-911425cee98d11f1ce3a9718a332b30ba1674ff057b294789bbe3c697689dd33",
+        "/posters/studio/studio-daun-senja.webp"
+      ]
+    },
+    {
+      "file": "templates/9da4987a4d51d05e2c5a2d1213525b664b857f8a2b7bb5f9b9585bc31825daeb.webp",
+      "sha256": "9da4987a4d51d05e2c5a2d1213525b664b857f8a2b7bb5f9b9585bc31825daeb",
+      "size": 106394,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-9da4987a4d51d05e2c5a2d1213525b664b857f8a2b7bb5f9b9585bc31825daeb",
+        "/posters/studio/studio-satu-tangkai-ma.webp"
+      ]
+    },
+    {
+      "file": "templates/a15d3d2ae7ea5830cf38345386e46122287f0c1ace010159a06455c7b91da44d.webp",
+      "sha256": "a15d3d2ae7ea5830cf38345386e46122287f0c1ace010159a06455c7b91da44d",
+      "size": 361944,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-a15d3d2ae7ea5830cf38345386e46122287f0c1ace010159a06455c7b91da44d",
+        "/posters/studio/studio-tegangan.webp"
+      ]
+    },
+    {
+      "file": "templates/a2a1a45393e8200b5b441904e8db9ccba1b0b89968a3166f3615ba485bde464e.webp",
+      "sha256": "a2a1a45393e8200b5b441904e8db9ccba1b0b89968a3166f3615ba485bde464e",
+      "size": 248466,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-a2a1a45393e8200b5b441904e8db9ccba1b0b89968a3166f3615ba485bde464e",
+        "/posters/studio/studio-atelier-emas.webp"
+      ]
+    },
+    {
+      "file": "templates/b18f497e11c0cd935b166b65f6a2d4d552caefa710ed68826d693bb98ed6596d.webp",
+      "sha256": "b18f497e11c0cd935b166b65f6a2d4d552caefa710ed68826d693bb98ed6596d",
+      "size": 262324,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-b18f497e11c0cd935b166b65f6a2d4d552caefa710ed68826d693bb98ed6596d",
+        "/posters/studio/studio-bentuk-bunyi.webp"
+      ]
+    },
+    {
+      "file": "templates/b88828a9ad482b03aa4490132d43a48f0453336aae1dc77eaecef45789b18188.webp",
+      "sha256": "b88828a9ad482b03aa4490132d43a48f0453336aae1dc77eaecef45789b18188",
+      "size": 318314,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-b88828a9ad482b03aa4490132d43a48f0453336aae1dc77eaecef45789b18188",
+        "/posters/kebun-balkon-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/b8ba47101c1c6721190ec849c6fbd5a522ee2f9f763940fe1f8b9617171394de.webp",
+      "sha256": "b8ba47101c1c6721190ec849c6fbd5a522ee2f9f763940fe1f8b9617171394de",
+      "size": 107756,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-b8ba47101c1c6721190ec849c6fbd5a522ee2f9f763940fe1f8b9617171394de",
+        "/posters/studio/studio-hening-ma.webp"
+      ]
+    },
+    {
+      "file": "templates/c0748e723ab137e5363d3b45de9e407f9a8cec895c30abe96aa5d232f8aa0f6d.webp",
+      "sha256": "c0748e723ab137e5363d3b45de9e407f9a8cec895c30abe96aa5d232f8aa0f6d",
+      "size": 321586,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-c0748e723ab137e5363d3b45de9e407f9a8cec895c30abe96aa5d232f8aa0f6d",
+        "/posters/keramik-buatan-tangan-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/c31d159fa7affc8f31f476b30484089ad61df6533068a6138bd4531b5ff1b73b.webp",
+      "sha256": "c31d159fa7affc8f31f476b30484089ad61df6533068a6138bd4531b5ff1b73b",
+      "size": 432522,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-c31d159fa7affc8f31f476b30484089ad61df6533068a6138bd4531b5ff1b73b",
+        "/posters/ekosistem-laut-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/c5dd5d069264d5581cd87e4354dfae2dbefd8dc25215b8972bcfc3b72d5b511f.webp",
+      "sha256": "c5dd5d069264d5581cd87e4354dfae2dbefd8dc25215b8972bcfc3b72d5b511f",
+      "size": 612026,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-c5dd5d069264d5581cd87e4354dfae2dbefd8dc25215b8972bcfc3b72d5b511f",
+        "/posters/studio/studio-cetak-kecil.webp"
+      ]
+    },
+    {
+      "file": "templates/cb31ce6d11e10002c5cd9b80e9e52f4c6ba5a5fe884f9b6573758637eac3c82f.webp",
+      "sha256": "cb31ce6d11e10002c5cd9b80e9e52f4c6ba5a5fe884f9b6573758637eac3c82f",
+      "size": 399032,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-cb31ce6d11e10002c5cd9b80e9e52f4c6ba5a5fe884f9b6573758637eac3c82f",
+        "/posters/kebun-sayur-anak-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/d0b134630d3da22e135dc01ccfdf3a5e852d2c8f1d6f575d3b34d99f9e8849a8.webp",
+      "sha256": "d0b134630d3da22e135dc01ccfdf3a5e852d2c8f1d6f575d3b34d99f9e8849a8",
+      "size": 281246,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-d0b134630d3da22e135dc01ccfdf3a5e852d2c8f1d6f575d3b34d99f9e8849a8",
+        "/posters/studio/studio-setelah-hujan.webp"
+      ]
+    },
+    {
+      "file": "templates/d1b6298114b9bd75b4ba6f7db1c6806d4b82c1e74a58573d598feac7e2561844.webp",
+      "sha256": "d1b6298114b9bd75b4ba6f7db1c6806d4b82c1e74a58573d598feac7e2561844",
+      "size": 178194,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-d1b6298114b9bd75b4ba6f7db1c6806d4b82c1e74a58573d598feac7e2561844",
+        "/posters/studio/studio-arus-pulang.webp"
+      ]
+    },
+    {
+      "file": "templates/d212292684843ece9febc936364a8a2ad22baf7b9c28904d3ce8eefd42d2e2fd.webp",
+      "sha256": "d212292684843ece9febc936364a8a2ad22baf7b9c28904d3ce8eefd42d2e2fd",
+      "size": 246700,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-d212292684843ece9febc936364a8a2ad22baf7b9c28904d3ce8eefd42d2e2fd",
+        "/posters/kosakata-bahasa-inggris-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/d62e1fc5147eb06b89e664b30cbd586c535d0447fcc20f6c4c30da935b577607.webp",
+      "sha256": "d62e1fc5147eb06b89e664b30cbd586c535d0447fcc20f6c4c30da935b577607",
+      "size": 278590,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-d62e1fc5147eb06b89e664b30cbd586c535d0447fcc20f6c4c30da935b577607",
+        "/posters/malam-jazz-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/d63296d8fa73ba55f7fac0a7477cea924e84af98db1968662d28d2daf059f8c6.webp",
+      "sha256": "d63296d8fa73ba55f7fac0a7477cea924e84af98db1968662d28d2daf059f8c6",
+      "size": 330700,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-d63296d8fa73ba55f7fac0a7477cea924e84af98db1968662d28d2daf059f8c6",
+        "/posters/tata-surya-mini-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/d66e97bd25c80f3dc357d7777e4b9633aa05b50063f45f45d76f63241408af03.webp",
+      "sha256": "d66e97bd25c80f3dc357d7777e4b9633aa05b50063f45f45d76f63241408af03",
+      "size": 321958,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-d66e97bd25c80f3dc357d7777e4b9633aa05b50063f45f45d76f63241408af03",
+        "/posters/studio/studio-node-hari-esok.webp"
+      ]
+    },
+    {
+      "file": "templates/d7316ac0707c7fd91a39acb70886353bf8859edfdd062b56ad84f086a19132dd.webp",
+      "sha256": "d7316ac0707c7fd91a39acb70886353bf8859edfdd062b56ad84f086a19132dd",
+      "size": 290348,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/api/assets/image-d7316ac0707c7fd91a39acb70886353bf8859edfdd062b56ad84f086a19132dd",
+        "/posters/sudut-baca-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/da449b084567c26c8d1b79b3a4277926132dc36ef1593e6289ef46ba349b44e2.webp",
+      "sha256": "da449b084567c26c8d1b79b3a4277926132dc36ef1593e6289ef46ba349b44e2",
+      "size": 105086,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-da449b084567c26c8d1b79b3a4277926132dc36ef1593e6289ef46ba349b44e2",
+        "/posters/studio/studio-pena-senyap.webp"
+      ]
+    },
+    {
+      "file": "templates/daa159f5a36f1469c2a88419047609b57d99c1e6be931f011140b263b43d0a75.webp",
+      "sha256": "daa159f5a36f1469c2a88419047609b57d99c1e6be931f011140b263b43d0a75",
+      "size": 107360,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-daa159f5a36f1469c2a88419047609b57d99c1e6be931f011140b263b43d0a75",
+        "/posters/studio/studio-jam-hening.webp"
+      ]
+    },
+    {
+      "file": "templates/e18b5006fffa562a2cbc82290529b49546e6c499173cc29a65f1d84be926e1de.webp",
+      "sha256": "e18b5006fffa562a2cbc82290529b49546e6c499173cc29a65f1d84be926e1de",
+      "size": 255840,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-e18b5006fffa562a2cbc82290529b49546e6c499173cc29a65f1d84be926e1de",
+        "/posters/pameran-fotografi-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/e194832920620fb87e8d7d982d7dac571b5add41069f070cd0a3fd5a6858e1fa.webp",
+      "sha256": "e194832920620fb87e8d7d982d7dac571b5add41069f070cd0a3fd5a6858e1fa",
+      "size": 272158,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/api/assets/image-e194832920620fb87e8d7d982d7dac571b5add41069f070cd0a3fd5a6858e1fa",
+        "/posters/studio-yoga-v2.webp"
+      ]
+    },
+    {
+      "file": "templates/e1c13a8e3b5767fded5acb682b7c4ef954ac2fab2dcf42a93d4e2060099ab351.webp",
+      "sha256": "e1c13a8e3b5767fded5acb682b7c4ef954ac2fab2dcf42a93d4e2060099ab351",
+      "size": 197484,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-e1c13a8e3b5767fded5acb682b7c4ef954ac2fab2dcf42a93d4e2060099ab351",
+        "/posters/studio/studio-nara-audio.webp"
+      ]
+    },
+    {
+      "file": "templates/ed95793cea296f166f84ebe97045b255a8028776afb868cd89288b7bc89db0d7.webp",
+      "sha256": "ed95793cea296f166f84ebe97045b255a8028776afb868cd89288b7bc89db0d7",
+      "size": 341148,
+      "width": 900,
+      "height": 1350,
+      "sources": [
+        "/api/assets/image-ed95793cea296f166f84ebe97045b255a8028776afb868cd89288b7bc89db0d7",
+        "/posters/studio/studio-spektrum-77.webp"
+      ]
+    },
+    {
+      "file": "templates/5b3069e9e0eae2540fe51ebf36aa7ea8064a90a9c3500e383944e5419ed8b4a2.svg",
+      "sha256": "5b3069e9e0eae2540fe51ebf36aa7ea8064a90a9c3500e383944e5419ed8b4a2",
+      "size": 4292,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/camping-di-pegunungan.svg"
+      ]
+    },
+    {
+      "file": "templates/3f5c0a6b1fdfae3efa1472337076937883b86fe1b1aa77237ff4096104a6873f.svg",
+      "sha256": "3f5c0a6b1fdfae3efa1472337076937883b86fe1b1aa77237ff4096104a6873f",
+      "size": 6587,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/ekosistem-laut.svg"
+      ]
+    },
+    {
+      "file": "templates/d80865db3a6b5507052a0a814de14146cf5ee19021291d6abdefcc25e6462e8b.svg",
+      "sha256": "d80865db3a6b5507052a0a814de14146cf5ee19021291d6abdefcc25e6462e8b",
+      "size": 5617,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/festival-layang-layang.svg"
+      ]
+    },
+    {
+      "file": "templates/8555cd1d5edf663e0ad5612f3afaeb178b192467470736e8e233a8267e435e54.svg",
+      "sha256": "8555cd1d5edf663e0ad5612f3afaeb178b192467470736e8e233a8267e435e54",
+      "size": 4479,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/fotografi-makanan-rumahan.svg"
+      ]
+    },
+    {
+      "file": "templates/b25567b76339cae209a9d22b50797f6f9a5f14bb86a3a229b121929ea7965628.svg",
+      "sha256": "b25567b76339cae209a9d22b50797f6f9a5f14bb86a3a229b121929ea7965628",
+      "size": 6323,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/jurnal-rasa-syukur.svg"
+      ]
+    },
+    {
+      "file": "templates/ecac8d4202a88f73a2c54a7526260d56f876bec5c8061d32d7d1ba0a53aa2c89.svg",
+      "sha256": "ecac8d4202a88f73a2c54a7526260d56f876bec5c8061d32d7d1ba0a53aa2c89",
+      "size": 8315,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/kebun-balkon.svg"
+      ]
+    },
+    {
+      "file": "templates/4ca0476567c8423fbdb33f82b2380c7d780e89f2956a20175266fb7ed1ed0ef6.svg",
+      "sha256": "4ca0476567c8423fbdb33f82b2380c7d780e89f2956a20175266fb7ed1ed0ef6",
+      "size": 7355,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/kebun-sayur-anak.svg"
+      ]
+    },
+    {
+      "file": "templates/8067db477524e5dff513d137cdee6a6fa2c3682527c0e5dea7e0805bdc1b3f81.svg",
+      "sha256": "8067db477524e5dff513d137cdee6a6fa2c3682527c0e5dea7e0805bdc1b3f81",
+      "size": 7065,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/keramik-buatan-tangan.svg"
+      ]
+    },
+    {
+      "file": "templates/26f9fe7d9bf8b8f4aff64d61322db7221770ca3a70ad0a0e9596b82a651c9204.svg",
+      "sha256": "26f9fe7d9bf8b8f4aff64d61322db7221770ca3a70ad0a0e9596b82a651c9204",
+      "size": 4753,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/kosakata-bahasa-inggris.svg"
+      ]
+    },
+    {
+      "file": "templates/2f8212751f04f1978020431ae213eddebe154674bf29e97afb0b7cb187a6f025.svg",
+      "sha256": "2f8212751f04f1978020431ae213eddebe154674bf29e97afb0b7cb187a6f025",
+      "size": 4216,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/kota-malam-neon.svg"
+      ]
+    },
+    {
+      "file": "templates/a8c8996ea6d5694fdd9b50b39ecad30c028a54d226d76264b2ea66c29242e604.svg",
+      "sha256": "a8c8996ea6d5694fdd9b50b39ecad30c028a54d226d76264b2ea66c29242e604",
+      "size": 5401,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/kucing-di-rumah.svg"
+      ]
+    },
+    {
+      "file": "templates/d7a1ee82216e8ccfcaf18ded0311f123f0c5acc4ac65bb1b292d49ec9b8572aa.svg",
+      "sha256": "d7a1ee82216e8ccfcaf18ded0311f123f0c5acc4ac65bb1b292d49ec9b8572aa",
+      "size": 4243,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/malam-jazz.svg"
+      ]
+    },
+    {
+      "file": "templates/5877da0fdeeb43d5b75f0e6958542e520d6668fe8a353c99d653a233426ce797.svg",
+      "sha256": "5877da0fdeeb43d5b75f0e6958542e520d6668fe8a353c99d653a233426ce797",
+      "size": 3770,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/matcha-studio.svg"
+      ]
+    },
+    {
+      "file": "templates/5c5f39ae7beaea0d8dd84651e7b260a0fa51b79e3b430983b0be55309f835816.svg",
+      "sha256": "5c5f39ae7beaea0d8dd84651e7b260a0fa51b79e3b430983b0be55309f835816",
+      "size": 5044,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/meja-kerja-fokus.svg"
+      ]
+    },
+    {
+      "file": "templates/8427a22445e333f1a04a58bfbc1629ac1fd3c66f3daab3ec4561478926ee406d.svg",
+      "sha256": "8427a22445e333f1a04a58bfbc1629ac1fd3c66f3daab3ec4561478926ee406d",
+      "size": 3558,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/pameran-fotografi.svg"
+      ]
+    },
+    {
+      "file": "templates/7790c606e793c55d406bd5869503d6a3bf95c4153e65b29f2f87531c57ae738d.svg",
+      "sha256": "7790c606e793c55d406bd5869503d6a3bf95c4153e65b29f2f87531c57ae738d",
+      "size": 5757,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/parfum-botani.svg"
+      ]
+    },
+    {
+      "file": "templates/b7dbd9afe742c84cc7e59388b03e7a0f7e6c87bec53ce15bc8d1406ffd10eb13.svg",
+      "sha256": "b7dbd9afe742c84cc7e59388b03e7a0f7e6c87bec53ce15bc8d1406ffd10eb13",
+      "size": 9305,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/pasar-kreatif-lokal.svg"
+      ]
+    },
+    {
+      "file": "templates/bc5f4d4afd7d30785b531c95d5970474ee0dcc6f1af384c998dabbed999fa899.svg",
+      "sha256": "bc5f4d4afd7d30785b531c95d5970474ee0dcc6f1af384c998dabbed999fa899",
+      "size": 4740,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/pecahan-lewat-pizza.svg"
+      ]
+    },
+    {
+      "file": "templates/ebece344e5295e09b1108b05503fd626e5a0f2212490aa080599d813fda1fac6.svg",
+      "sha256": "ebece344e5295e09b1108b05503fd626e5a0f2212490aa080599d813fda1fac6",
+      "size": 3570,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/perjalanan-kereta.svg"
+      ]
+    },
+    {
+      "file": "templates/38eff5e246984c2d3b0a4b67ed654211de1059238260b67943668a0fc202a9ef.svg",
+      "sha256": "38eff5e246984c2d3b0a4b67ed654211de1059238260b67943668a0fc202a9ef",
+      "size": 7699,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/petualangan-dinosaurus.svg"
+      ]
+    },
+    {
+      "file": "templates/e6cb6c895bc57f75799b2b02e347944e41c3358c59e2e0ce856d7884c793f16f.svg",
+      "sha256": "e6cb6c895bc57f75799b2b02e347944e41c3358c59e2e0ce856d7884c793f16f",
+      "size": 5401,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/piknik-komunitas.svg"
+      ]
+    },
+    {
+      "file": "templates/265d6f5b9fdc12f2ad134ac784ba2434996a7c92a035e6d1ee8a48c3b7a5b7fb.svg",
+      "sha256": "265d6f5b9fdc12f2ad134ac784ba2434996a7c92a035e6d1ee8a48c3b7a5b7fb",
+      "size": 4026,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/pilah-sampah.svg"
+      ]
+    },
+    {
+      "file": "templates/a4ce11ab21c33eb1eeca71b291416ace4bef2f35257f444f0d4832ed329cec24.svg",
+      "sha256": "a4ce11ab21c33eb1eeca71b291416ace4bef2f35257f444f0d4832ed329cec24",
+      "size": 898,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/prompt-ready.svg"
+      ]
+    },
+    {
+      "file": "templates/1313aa03a10915904bd1ae8cad20d96707493557bd5dc91a83ab1b4c1eda0a4c.svg",
+      "sha256": "1313aa03a10915904bd1ae8cad20d96707493557bd5dc91a83ab1b4c1eda0a4c",
+      "size": 3552,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/roti-artisan.svg"
+      ]
+    },
+    {
+      "file": "templates/045ff45765aaad00c6e348e8cf261c9b69e5bbfea0e4a8f6c20fd154d8cb76e5.svg",
+      "sha256": "045ff45765aaad00c6e348e8cf261c9b69e5bbfea0e4a8f6c20fd154d8cb76e5",
+      "size": 4289,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/studio-yoga.svg"
+      ]
+    },
+    {
+      "file": "templates/3c692dde0565f3794cc90867c338cb514a5d1245c4e75f7f927464d922c00a45.svg",
+      "sha256": "3c692dde0565f3794cc90867c338cb514a5d1245c4e75f7f927464d922c00a45",
+      "size": 4975,
+      "width": 900,
+      "height": 900,
+      "sources": [
+        "/previews/sudut-baca.svg"
+      ]
+    },
+    {
+      "file": "templates/7ba1b3bdbf6b01597b85398005e9d370f37d1f6dd7a685ee685777f5ebd4b386.svg",
+      "sha256": "7ba1b3bdbf6b01597b85398005e9d370f37d1f6dd7a685ee685777f5ebd4b386",
+      "size": 4410,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/tas-daur-ulang.svg"
+      ]
+    },
+    {
+      "file": "templates/1ac7364955be06bc47cc19f66488f753a1f88aa5fa0392c56b87b4d4a8a8c737.svg",
+      "sha256": "1ac7364955be06bc47cc19f66488f753a1f88aa5fa0392c56b87b4d4a8a8c737",
+      "size": 6606,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/tata-surya-mini.svg"
+      ]
+    },
+    {
+      "file": "templates/786ba6fbdd01303af454a2d81dcb0efab41985bb0ef0d523b60d125302ccdb5a.svg",
+      "sha256": "786ba6fbdd01303af454a2d81dcb0efab41985bb0ef0d523b60d125302ccdb5a",
+      "size": 8903,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/toko-bunga.svg"
+      ]
+    },
+    {
+      "file": "templates/b75bba8769d3b6a51133c37a73e40fa27d5c2f6854bef64741eb87d29cab8cf1.svg",
+      "sha256": "b75bba8769d3b6a51133c37a73e40fa27d5c2f6854bef64741eb87d29cab8cf1",
+      "size": 11137,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/undangan-pernikahan-botani.svg"
+      ]
+    },
+    {
+      "file": "templates/94cb013bd865d745a68c9fd24fa4c51017b43b9b9374ce4b103947ffded93d45.svg",
+      "sha256": "94cb013bd865d745a68c9fd24fa4c51017b43b9b9374ce4b103947ffded93d45",
+      "size": 3565,
+      "width": 900,
+      "height": 1125,
+      "sources": [
+        "/previews/workshop-tembikar.svg"
+      ]
+    }
+  ]
+}
