@@ -981,6 +981,66 @@
       "sources": [
         "/previews/workshop-tembikar.svg"
       ]
+    },
+    {
+      "file": "templates/3c214a08fc7266533fd4d9283f12c7fdfe2b595cbd577cefeaab4d3f014ce258.webp",
+      "sha256": "3c214a08fc7266533fd4d9283f12c7fdfe2b595cbd577cefeaab4d3f014ce258",
+      "size": 356354,
+      "width": 1080,
+      "height": 1440,
+      "sources": [
+        "/posters/food-campaign/burger-kafe-hangat-original.webp"
+      ]
+    },
+    {
+      "file": "templates/c569ae3a1a027b8dfbf2b6f8e245999e3b3a7975c1e98b65a1df694d46bf37d1.webp",
+      "sha256": "c569ae3a1a027b8dfbf2b6f8e245999e3b3a7975c1e98b65a1df694d46bf37d1",
+      "size": 294130,
+      "width": 1080,
+      "height": 1440,
+      "sources": [
+        "/posters/food-campaign/soto-natural-elegan-original.webp"
+      ]
+    },
+    {
+      "file": "templates/6c16a07245818a10710af73d2ae5e80006378fa2e9207830eccd665e28bf7f8d.webp",
+      "sha256": "6c16a07245818a10710af73d2ae5e80006378fa2e9207830eccd665e28bf7f8d",
+      "size": 267596,
+      "width": 1080,
+      "height": 1440,
+      "sources": [
+        "/posters/food-campaign/donat-pastel-ceria-original.webp"
+      ]
+    },
+    {
+      "file": "templates/404db3eb1b8c1b3d2167d593d58685eac0a7c0a3aa51aae15c51a045d4373776.webp",
+      "sha256": "404db3eb1b8c1b3d2167d593d58685eac0a7c0a3aa51aae15c51a045d4373776",
+      "size": 387528,
+      "width": 1080,
+      "height": 1440,
+      "sources": [
+        "/posters/food-campaign/sushi-premium-kayu-original.webp"
+      ]
+    },
+    {
+      "file": "templates/bae5b5ee56418ae7a92f061d9f286e6687b12f008aebd12843e48791bc670030.webp",
+      "sha256": "bae5b5ee56418ae7a92f061d9f286e6687b12f008aebd12843e48791bc670030",
+      "size": 297552,
+      "width": 1080,
+      "height": 1440,
+      "sources": [
+        "/posters/food-campaign/salad-hijau-segar-original.webp"
+      ]
+    },
+    {
+      "file": "templates/25c0bd2c3101dbdca7ec22a9092c712a1bd34cad47614e629dafdc3cb8f71c25.webp",
+      "sha256": "25c0bd2c3101dbdca7ec22a9092c712a1bd34cad47614e629dafdc3cb8f71c25",
+      "size": 365946,
+      "width": 1080,
+      "height": 1440,
+      "sources": [
+        "/posters/food-campaign/menu-duo-oranye-original.webp"
+      ]
     }
   ]
 }
